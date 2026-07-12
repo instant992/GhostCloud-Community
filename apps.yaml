@@ -1,0 +1,17 @@
+# GhostCloud Community Android packages routed directly without VPN.
+apps:
+  - org.telegram.messenger
+  - org.thunderdog.challegram
+  - com.whatsapp
+  - com.whatsapp.w4b
+  - com.google.android.youtube
+  - com.google.android.apps.youtube.music
+  - com.vkontakte.android
+  - ru.ok.android
+  - ru.yandex.searchplugin
+  - ru.yandex.yandexmaps
+  - ru.mail.mailapp
+  - ru.sberbankmobile
+  - ru.tinkoff.bank
+  - com.wildberries.ru
+  - ru.ozon.app.android

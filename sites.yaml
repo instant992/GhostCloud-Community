@@ -1,5 +1,6 @@
 # GhostCloud Community sites routed directly without VPN.
 sites:
+  ya.ru
   - localhost
   - 127.0.0.1
   - google.com
@@ -13,7 +14,6 @@ sites:
   - vk.ru
   - ok.ru
   - yandex.ru
-  - ya.ru
   - mail.ru
   - sberbank.ru
   - tbank.ru

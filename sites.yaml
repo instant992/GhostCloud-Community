@@ -1,4 +1,21 @@
 # GhostCloud Community sites routed directly without VPN.
 sites:
   - ya.ru
-
+  - localhost
+  - 127.0.0.1
+  - google.com
+  - youtube.com
+  - youtu.be
+  - telegram.org
+  - t.me
+  - whatsapp.com
+  - whatsapp.net
+  - vk.com
+  - vk.ru
+  - ok.ru
+  - yandex.ru
+  - mail.ru
+  - sberbank.ru
+  - tbank.ru
+  - wildberries.ru
+  - ozon.ru
